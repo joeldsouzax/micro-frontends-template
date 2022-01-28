@@ -1,6 +1,7 @@
 {
   "name": "micro-frontends-template",
   "version": "1.0.0",
+  "private": true,
   "description": "microfrontend template that contains all functionalities (I can think off) in modern web development.",
   "main": "index.js",
   "scripts": {
