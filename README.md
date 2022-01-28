@@ -17,7 +17,7 @@ in creating a modern frontend application.
 - vscode
 
 
-## vscode 
+### vscode 
 - add commitizen vscode plugin from https://github.com/KnisterPeter/vscode-commitizen
 ### commitizen 
 - helps in having a uniform git commit process.
