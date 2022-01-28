@@ -1,0 +1,30 @@
+{
+  "name": "micro-frontends-template",
+  "version": "1.0.0",
+  "description": "microfrontend template that contains all functionalities (I can think off) in modern web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joeldsouzax/micro-frontends-template.git"
+  },
+  "keywords": [
+    "micro-frontends",
+    "typscript",
+    "lerna",
+    "yarn",
+    "webpack",
+    "react",
+    "progressive-web-app",
+    "redux",
+    "babel"
+  ],
+  "author": "joeldsouzax@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldsouzax/micro-frontends-template/issues"
+  },
+  "homepage": "https://github.com/joeldsouzax/micro-frontends-template#readme"
+}
