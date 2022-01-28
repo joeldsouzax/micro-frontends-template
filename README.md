@@ -12,4 +12,11 @@ in creating a modern frontend application.
 - MaterialUI
 - Redux
 - semantic-version
+- commitizen 
+
+
+### commitizen 
+- helps in having a uniform git commit process.
+- [[https://github.com/commitizen/cz-cli]]
+
 
