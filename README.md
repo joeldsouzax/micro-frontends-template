@@ -23,3 +23,12 @@ in creating a modern frontend application.
 - helps in having a uniform git commit process.
 - [[https://github.com/commitizen/cz-cli]]
 
+### yarn
+- add workspace support to monorepo
+
+### lerna
+- specify independent versioning, if we are going to use semantic versining.
+- specify workspaces
+
+
+
