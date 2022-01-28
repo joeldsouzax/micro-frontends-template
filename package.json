@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/joeldsouzax/micro-frontends-template/issues"
   },
-  "homepage": "https://github.com/joeldsouzax/micro-frontends-template#readme"
+  "homepage": "https://github.com/joeldsouzax/micro-frontends-template#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
