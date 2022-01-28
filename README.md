@@ -14,8 +14,11 @@ in creating a modern frontend application.
 - Redux
 - semantic-version
 - commitizen 
+- vscode
 
 
+## vscode 
+- add commitizen vscode plugin from https://github.com/KnisterPeter/vscode-commitizen
 ### commitizen 
 - helps in having a uniform git commit process.
 - [[https://github.com/commitizen/cz-cli]]
