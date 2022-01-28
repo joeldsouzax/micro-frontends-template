@@ -11,4 +11,5 @@ in creating a modern frontend application.
 - Reactjs
 - MaterialUI
 - Redux
+- semantic-version
 
