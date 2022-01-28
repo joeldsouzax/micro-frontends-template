@@ -30,5 +30,5 @@ in creating a modern frontend application.
 - specify independent versioning, if we are going to use semantic versining.
 - specify workspaces
 
-
-
+### typescript
+- add typescript to the root folder so we can share the config file across packages.
