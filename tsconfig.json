@@ -20,6 +20,3 @@
   },
   "exclude": ["node_modules","build"]
 }
-
-//TODO: add prettier
-//TODO: add eslint

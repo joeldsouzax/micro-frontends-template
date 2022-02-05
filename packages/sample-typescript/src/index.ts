@@ -1,0 +1,1 @@
+console.log("Sample Typescript Node project");
