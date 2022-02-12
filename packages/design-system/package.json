@@ -1,0 +1,31 @@
+{
+  "name": "@org/design-system",
+  "version": "0.0.0",
+  "description": "package for design system",
+  "keywords": [
+    "design",
+    "system",
+    "css"
+  ],
+  "author": "Joel DSouza <joel.dsouza@seamless.se>",
+  "homepage": "https://github.com/joeldsouzax/micro-frontends-template/tree/main/packages/design-system#readme",
+  "license": "ISC",
+  "main": "lib/design-system.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldsouzax/micro-frontends-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/joeldsouzax/micro-frontends-template/issues"
+  }
+}
